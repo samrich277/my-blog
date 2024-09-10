@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Change this text with information about me and my blog.
+Welcome to my blog! My name is Samantha and I am so excited to share some insights on this blog!
 
