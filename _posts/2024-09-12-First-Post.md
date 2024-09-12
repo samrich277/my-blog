@@ -16,7 +16,7 @@ Provide a concise overview of Domo, including its purpose and capabilities. High
 # Why should I use Domo?
 
 Share why Domo is the optimal tool and why all statistics students should take the time to become familiar with the platform
-## Can't I just use Tableau?
+#### Can't I just use Tableau?
 
 Discuss why Domo might be the preferred tool over Tableau for certain use cases. 
 
