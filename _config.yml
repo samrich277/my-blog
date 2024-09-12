@@ -21,8 +21,8 @@
 title: Samantha's Data Science Blog
 email: samrich277@gmail.com
 description: "Come along with me on my data science journey!"
-baseurl: /my-blog # the name of the repository 
-url: https://samrich277.github.io #  change this to "https://<your-github-username>.github.io"
+baseurl: "/my-blog" # the name of the repository 
+url: "https://samrich277.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/headerimg.jpg
 author: Samantha Richardson
 copyright: ASR # Your initials or name or what you want the copyright to be.  Leave empty for no copyright
