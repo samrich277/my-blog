@@ -17,9 +17,7 @@ Provide a concise overview of Domo, including its purpose and capabilities. High
 Share why Domo is the optimal tool and why all statistics students should take the time to become familiar with the platform
 
 ### Can't I just use Tableau?
-<div style="float: right; margin-left: 15px;">
-  <img src="https://samrich277.github.io/my-blog/assets/images/tableau.jpg" alt="Tableau" style="width:300px;"/>
-</div>
+<img src="https://samrich277.github.io/my-blog/assets/images/tableau.jpg" alt="Tableau" style="width:300px; float: right; margin-left: 15px;"/>
 
 Discuss why Domo might be the preferred tool over Tableau for certain use cases. 
 
