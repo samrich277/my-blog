@@ -23,6 +23,7 @@ Domo is a cloud-based business intelligence platform designed to help organizati
 Domo's user-friendly interface and extensive capabilities make it particularly relevant for statistics students and data professionals who need a robust tool for data analysis and visualization.
 
 # Why should I use Domo?
+<img src="https://samrich277.github.io/my-blog/assets/images/data_science.jpg" alt="Data Science" style="width:400px; float: right; margin-left: 15px;"/>
 
 Domo offers several advantages that make it an appealing choice for data analysis:
 
@@ -35,7 +36,7 @@ By familiarizing yourself with Domo, you'll gain a powerful tool that can enhanc
 
 ### Can't I just use Tableau?
 
-<img src="https://samrich277.github.io/my-blog/assets/images/tableau.jpg" alt="Tableau" style="width:300px; float: right; margin-left: 15px;"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/tableau.jpg" alt="Tableau" style="width:400px; float: right; margin-left: 15px;"/>
 
 While [Tableau](https://www.tableau.com/) is a well-known data visualization tool, Domo offers several unique benefits:
 
@@ -59,6 +60,8 @@ Ready to dive into Domo? Here’s a step-by-step guide to help you get started:
 
 1. **Connect Data Sources**: Use the “Add Data” button to connect to various data sources like databases, spreadsheets, and cloud services.
 2. **Data Preparation**: Clean and transform your data using Domo’s built-in tools to ensure it’s ready for analysis.
+
+![dataflow](https://samrich277.github.io/my-blog/assets/images/dataflow.jpg)
 
 ### Visualizing Data
 
