@@ -12,6 +12,8 @@ In a world overflowing with data tools, finding the right one can be a challenge
 
 Domo is a cloud-based business intelligence platform designed to help organizations visualize, analyze, and act on data. It provides a centralized platform where users can connect various data sources, create custom dashboards, and generate interactive reports.
 
+![domo_map](https://samrich277.github.io/my-blog/assets/images/domo_map.jpg)
+
 ### Key Capabilities
 - **Real-Time Data Integration**: Connect to numerous data sources and integrate them seamlessly for real-time analysis.
 - **Custom Dashboards**: Create visually appealing and customizable dashboards that cater to specific business needs.
@@ -35,7 +37,7 @@ By familiarizing yourself with Domo, you'll gain a powerful tool that can enhanc
 
 <img src="https://samrich277.github.io/my-blog/assets/images/tableau.jpg" alt="Tableau" style="width:300px; float: right; margin-left: 15px;"/>
 
-While Tableau is a well-known data visualization tool, Domo offers several unique benefits:
+While [Tableau](https://www.tableau.com/) is a well-known data visualization tool, Domo offers several unique benefits:
 
 - **Unified Platform**: Unlike Tableau, which often requires integration with other tools, Domo provides an all-in-one solution for data integration, visualization, and analysis.
 - **Real-Time Data**: Domo excels in handling live data feeds, making it easier to get up-to-date insights without manual updates.
