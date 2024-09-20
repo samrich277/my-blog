@@ -6,7 +6,7 @@ description: "Explore Domo: what it is, why it’s ideal for data analysis, and 
 image: /assets/images/domo.png
 ---
 
-In a world overflowing with data tools, finding the right one can be a challenge. Enter Domo—a powerful platform that’s perfect for anyone looking to turn raw data into meaningful insights. Whether you're a stats student or a data pro, Domo has some unique features that might make it your new go-to tool. Curious why it stands out, especially compared to Tableau? Let’s dive in and see why Domo is worth your time and how you can get started with it.
+In a world overflowing with data tools, finding the right one can be a challenge. Enter Domo—a powerful platform that’s perfect for anyone looking to turn raw data into meaningful insights. Whether you're a stats student or a data pro, Domo has some unique features that might make it your new go-to tool. Curious why it stands out, especially compared to Tableau? Let’s dive in and see why Domo is worth your time and how you can get started with it!
 
 # What is Domo?
 
@@ -20,7 +20,7 @@ Domo is a cloud-based business intelligence platform designed to help organizati
 - **Advanced Analytics**: Utilize built-in analytics tools and predictive modeling features to uncover deeper insights.
 - **Collaboration Features**: Share dashboards and reports with team members and stakeholders to foster a collaborative data-driven culture.
 
-Domo's user-friendly interface and extensive capabilities make it particularly relevant for statistics students and data professionals who need a robust tool for data analysis and visualization.
+Domo's user-friendly interface and extensive capabilities make it an amazing tool for statistics students and data professionals who need the optimal tool for data analysis and visualization. 
 
 # Why should I use Domo?
 <img src="https://samrich277.github.io/my-blog/assets/images/data_science.jpg" alt="Data Science" style="width:400px; float: right; margin-left: 15px;"/>
@@ -42,7 +42,7 @@ While [Tableau](https://www.tableau.com/) is a well-known data visualization too
 
 - **Unified Platform**: Unlike Tableau, which often requires integration with other tools, Domo provides an all-in-one solution for data integration, visualization, and analysis.
 - **Real-Time Data**: Domo excels in handling live data feeds, making it easier to get up-to-date insights without manual updates.
-- **Collaboration and Sharing**: Domo's collaboration features are more robust, enabling better teamwork and real-time sharing of insights.
+- **Collaboration and Sharing**: Domo's collaboration features are more advanced, enabling better teamwork and real-time sharing of insights.
 
 For many use cases, Domo’s integrated approach and collaborative features can make it a more efficient choice compared to Tableau.
 
@@ -54,18 +54,20 @@ Ready to dive into Domo? Here’s a step-by-step guide to help you get started:
 
 1. **Create an Account**: Visit [Domo’s website](https://www.domo.com) and sign up for a free trial or contact sales for a demo.
 2. **Log In**: Access your Domo dashboard by logging in with your credentials.
-3. **Explore the Interface**: Familiarize yourself with the main sections: Data Center, Visualize, and Appstore.
+3. **Explore the Interface**: Familiarize yourself with the main sections: Apps, Dashboards, Alerts, Appstore, & Data. 
 
 ### Importing Data
 
-1. **Connect Data Sources**: Use the “Add Data” button to connect to various data sources like databases, spreadsheets, and cloud services.
+1. **Connect Data Sources**: Use the "Data” button to connect to various data sources like databases, spreadsheets, and cloud services.
 2. **Data Preparation**: Clean and transform your data using Domo’s built-in tools to ensure it’s ready for analysis.
 
 ![dataflow](https://samrich277.github.io/my-blog/assets/images/dataflow.jpg)
 
 ### Visualizing Data
 
-1. **Create Dashboards**: Navigate to the “Visualize” tab and start creating dashboards by selecting from a variety of chart types and widgets.
+<img src="https://samrich277.github.io/my-blog/assets/images/dashboard.png" alt="Tableau" style="width:400px; float: right; margin-left: 15px;"/>
+
+1. **Create Dashboards**: Navigate to the “Dashboards” tab and start creating dashboards by selecting from a variety of chart types and widgets.
 2. **Customize Visuals**: Adjust colors, labels, and layout to tailor the visuals to your specific needs.
 
 ### Key Features
