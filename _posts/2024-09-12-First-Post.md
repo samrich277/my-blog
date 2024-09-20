@@ -23,18 +23,16 @@ Domo is a cloud-based business intelligence platform designed to help organizati
 Domo's user-friendly interface and extensive capabilities make it an amazing tool for statistics students and data professionals who need the optimal tool for data analysis and visualization. 
 
 # Why should I use Domo?
-<div style="overflow: auto;">
-    <img src="https://samrich277.github.io/my-blog/assets/images/data_science.jpg" alt="Data Science" style="width:400px; float:left; margin-right:15px;"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/data_science.jpg" alt="Data Science" style="width:400px; float: right; margin-left: 15px;"/>
 
-    Domo offers several advantages that make it an appealing choice for data analysis:
+Domo offers several advantages that make it an appealing choice for data analysis:
 
-    - **Ease of Use**: With an intuitive interface, Domo simplifies the process of connecting to data sources and creating visualizations.
-    - **Scalability**: It can handle large datasets and complex queries, making it suitable for both small projects and large-scale data operations.
-    - **Integration**: Seamlessly integrate data from various sources, including social media, databases, and spreadsheets, into a single platform.
-    - **Collaboration**: Enhance teamwork with features that allow real-time sharing and collaboration on data insights.
+- **Ease of Use**: With an intuitive interface, Domo simplifies the process of connecting to data sources and creating visualizations.
+- **Scalability**: It can handle large datasets and complex queries, making it suitable for both small projects and large-scale data operations.
+- **Integration**: Seamlessly integrate data from various sources, including social media, databases, and spreadsheets, into a single platform.
+- **Collaboration**: Enhance teamwork with features that allow real-time sharing and collaboration on data insights.
 
-    By familiarizing yourself with Domo, you'll gain a powerful tool that can enhance your data analysis skills and improve your ability to communicate insights effectively.
-</div>
+By familiarizing yourself with Domo, you'll gain a powerful tool that can enhance your data analysis skills and improve your ability to communicate insights effectively.
 
 ### Can't I just use Tableau?
 
