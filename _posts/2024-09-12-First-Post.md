@@ -23,7 +23,8 @@ Domo is a cloud-based business intelligence platform designed to help organizati
 Domo's user-friendly interface and extensive capabilities make it an amazing tool for statistics students and data professionals who need the optimal tool for data analysis and visualization. 
 
 # Why should I use Domo?
-<img src="https://samrich277.github.io/my-blog/assets/images/data_science.jpg" alt="Data Science" style="width:400px; float: left; margin-right: 15px;"/>
+<div style="overflow: auto;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/data_science.jpg" alt="Data Science" style="width:400px; float:left; margin-right:15px;"/>
 
 Domo offers several advantages that make it an appealing choice for data analysis:
 
