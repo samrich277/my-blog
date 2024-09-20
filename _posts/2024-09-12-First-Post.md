@@ -65,10 +65,11 @@ Ready to dive into Domo? Here’s a step-by-step guide to help you get started:
 
 ### Visualizing Data
 
-<img src="https://samrich277.github.io/my-blog/assets/images/dashboard.png" alt="Tableau" style="width:250px; float: left; margin-left: 15px;"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/dashboard.png" alt="Tableau" style="width:200px; float: left; margin-left: 15px;"/>
 
 1. **Create Dashboards**: Navigate to the “Dashboards” tab and start creating dashboards by selecting from a variety of chart types and widgets.
 2. **Customize Visuals**: Adjust colors, labels, and layout to tailor the visuals to your specific needs.
+
 
 ### Key Features
 
