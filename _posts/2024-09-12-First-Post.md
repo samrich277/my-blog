@@ -22,9 +22,8 @@ Domo is a cloud-based business intelligence platform designed to help organizati
 
 Domo's user-friendly interface and extensive capabilities make it an amazing tool for statistics students and data professionals who need the optimal tool for data analysis and visualization. 
 
-<img src="https://samrich277.github.io/my-blog/assets/images/thought.jpg" alt="Thought" style="width: 60px; float: right; margin-left: 45px;"/>
 
-#### Personal Thought #1 
+#### Personal Thought #1 <img src="https://samrich277.github.io/my-blog/assets/images/thought.jpg" alt="Thought" style="width: 60px; float: right; margin-left: 15px;"/>
 When I first started working as a data analyst, Domo was one of the tools I had to learn on the job. At first, it was daunting—figuring out how to connect data sources, build dashboards, and navigate its various features took some time. But I quickly realized that Domo's capabilities made my workflow so much smoother, especially with its real-time data integration. Now, I rely on Domo daily to help me create impactful visualizations that are crucial for delivering business insights at my job. It’s not just about learning a new tool—it’s about unlocking a better way to work with data.
 
 # Why should I use Domo?
@@ -39,9 +38,7 @@ Domo offers several advantages that make it an appealing choice for data analysi
 
 By familiarizing yourself with Domo, you'll gain a powerful tool that can enhance your data analysis skills and improve your ability to communicate insights effectively.
 
-<img src="https://samrich277.github.io/my-blog/assets/images/thought.jpg" alt="Thought" style="width:60px; float: right; margin-left: 45px;"/>
-
-#### Personal Thought #2
+#### Personal Thought #2 <img src="https://samrich277.github.io/my-blog/assets/images/thought.jpg" alt="Thought" style="width:60px; float: right; margin-left: 15px;"/>
 For me, learning Domo was a game-changer. It quickly became clear how essential it is for efficient decision-making and data-driven strategy. Whether I’m pulling data for quick analysis or building comprehensive dashboards for team presentations, Domo is the backbone of my daily work. If you're a student or professional aiming to get ahead in the data science field, Domo is absolutely worth adding to your toolkit.
 
 
