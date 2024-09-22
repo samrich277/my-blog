@@ -86,7 +86,7 @@ Ready to dive into Domo? Here’s a step-by-step guide to help you get started:
 - **DataFlows**: Automate data transformations and updates with Domo’s DataFlows feature.
 - **Alerts and Notifications**: Set up alerts to get notified about important changes in your data.
 
-<img src="bar.jpg" alt="bar" width="500" >
+<img src="https://samrich277.github.io/my-blog/assets/images/bar.jpg" alt="bar" width="500" >
 
 By following these steps, you’ll be well on your way to harnessing the full power of Domo for your data analysis needs.
 
