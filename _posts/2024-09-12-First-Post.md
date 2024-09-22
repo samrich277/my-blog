@@ -55,6 +55,7 @@ While [Tableau](https://www.tableau.com/) is a well-known data visualization too
 For many use cases, Domo’s integrated approach and collaborative features can make it a more efficient choice compared to Tableau.
 
 # How to Get Started
+<img src="https://samrich277.github.io/my-blog/assets/images/homepage.jpeg" alt="Homepage" style="width:350px; float: right; margin-left: 15px;"/>
 
 Ready to dive into Domo? Here’s a step-by-step guide to help you get started:
 
