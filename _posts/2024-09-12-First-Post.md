@@ -84,8 +84,8 @@ Ready to dive into Domo? Here’s a step-by-step guide to help you get started:
 
 - **Domo Appstore**: Browse and install pre-built apps and connectors to extend Domo’s functionality.
 - **DataFlows**: Automate data transformations and updates with Domo’s DataFlows feature.
-<img src="https://samrich277.github.io/my-blog/assets/images/bar.jpg" alt="Bar" style="width:500px; float: right; margin-left: 15px;"/>
 - **Alerts and Notifications**: Set up alerts to get notified about important changes in your data.
+![bar](https://samrich277.github.io/my-blog/assets/images/bar.jpg)
 
 By following these steps, you’ll be well on your way to harnessing the full power of Domo for your data analysis needs.
 
