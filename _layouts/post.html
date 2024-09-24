@@ -5,12 +5,14 @@ layout: default
 
   <header class="post-header">
     {%- if page.image -%}
-      <img src="{{- page.image | relative_url -}}", alt="", class="featured-image-post">
-    {%- else -%} 
+      <img src="{{- page.image | relative_url -}}", alt="", class="featured-image-post" style="margin-bottom: 20px;">
+    {%- else -%}
       {%- assign defaultImage = "https://source.unsplash.com/random" -%}
-      <img src="{{- defaultImage -}}", alt="", class="featured-image-post">
-    {%- endif -%} 
+      <img src="{{- defaultImage -}}", alt="", class="featured-image-post" style="margin-bottom: 20px;">
+    {%- endif -%}
+    
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -27,9 +29,11 @@ layout: default
        <p><em> <font size="-1">{{page.description}} </font></em></p>
       {%- endif -%}
     </p>
-    <hr style="height:1px;border:none;color:#333;background-color:#333;" />
     
+    <hr style="height:1px;border:none;color:#333;background-color:#333;" />
   </header>
+</article>
+
   
  
 
