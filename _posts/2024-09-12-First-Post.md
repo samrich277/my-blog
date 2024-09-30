@@ -30,7 +30,7 @@ When I first started working as a data analyst, Domo was one of the tools I had 
 # Why should I use Domo?
 <img src="https://samrich277.github.io/my-blog/assets/images/data_science.jpg" alt="Data Science" style="width:400px; float: right; margin-left: 15px;"/>
 
-Domo offers several advantages that make it an appealing choice for data analysis:
+[Domo](https://www.domo.com/why-domo) offers several advantages that make it an appealing choice for data analysis:
 
 - **Ease of Use**: With an intuitive interface, Domo simplifies the process of connecting to data sources and creating visualizations.
 - **Scalability**: It can handle large datasets and complex queries, making it suitable for both small projects and large-scale data operations.
