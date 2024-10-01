@@ -89,11 +89,13 @@ Ready to dive into Domo? Here’s a step-by-step guide to help you get started:
 
 <img src="https://samrich277.github.io/my-blog/assets/images/bar.jpg" alt="bar" width="700" >
 
-By following these steps, you’ll be well on your way to harnessing the full power of Domo for your data analysis needs.
+By following these steps, you’ll be well on your way to harnessing the full power of Domo for your data analysis needs!
 
 # Conclusion
 
 Domo is more than just another data tool—it’s a powerful platform that can transform how you analyze and visualize data. With its robust features and user-friendly interface, it’s a valuable asset for students and professionals alike. Ready to explore Domo for yourself? Sign up for a trial, dive into the tutorials, and see how it can enhance your data analysis skills. If you have any questions or want to share your experiences, leave a comment below!
+
+<img src="https://samrich277.github.io/my-blog/assets/images/comment_below.png" alt="Tableau" style="width:350px; float: right; margin-left: 15px;"/>
 
 For more resources and tutorials, check out [Domo’s Learning Center](https://www.domo.com/resources).
 
