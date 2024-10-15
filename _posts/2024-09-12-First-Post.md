@@ -99,3 +99,11 @@ Domo is more than just another data tool—it’s a powerful platform that can t
 
 For more resources and tutorials, check out [Domo’s Learning Center](https://www.domo.com/resources).
 
+### Image Sources
+
+1. domo.com
+2. https://blog.tyronesystems.com/types-of-data-scientist/
+3. https://www.artofvisualization.com/blog/domo-vs-tableau-showdown
+4. https://one-analytics.com/looker-studio-vs-domo-review/
+5. domo.com
+
