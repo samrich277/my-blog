@@ -7,5 +7,71 @@ description: "Discover what drives housing prices in one of California’s most 
 image: /assets/images/orange_county1.jpg
 ---
 
+# Analyzing Housing Prices in Orange County: A Data-Driven Approach
 
-Content
+## Introduction
+
+In today’s competitive housing market, understanding the dynamics behind real estate prices is crucial for both buyers and investors. This project aims to explore the housing market in Orange County, California, a region known for its luxurious homes and high property values. By curating and analyzing data on house listings, I hope to uncover trends and patterns in pricing, square footage, and other relevant factors.
+
+## Motivating Question
+
+The primary question guiding this project is: **What are the key factors that influence housing prices in Orange County?**
+
+## Ethical Considerations and Scraping Best Practices
+
+Before diving into data collection, it's essential to consider ethical guidelines and best practices for web scraping:
+
+- **Respect Website Policies**: Always check the website’s `robots.txt` file to ensure that scraping is allowed.
+- **Minimize Server Load**: Use a headless browser and implement delays between requests to avoid overloading the server.
+- **Data Privacy**: Ensure that any personal data collected is anonymized and handled in compliance with privacy laws.
+
+## How to Get Started: Step-by-Step Guide
+
+If you want to carry out a similar project, follow these steps:
+
+1. **Choose a Target Website**: Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
+2. **Set Up Your Environment**:
+    - Install Selenium and a web driver like ChromeDriver.
+    - Use a headless browser to reduce server load.
+3. **Write the Scraping Code**:
+    - Identify the relevant HTML elements (e.g., price, address) using browser developer tools.
+    - Implement pagination to navigate through all pages of listings.
+4. **Clean the Data**:
+    - Remove any unwanted symbols (e.g., dollar signs) and convert text values (e.g., "5 bds") to integers.
+    - Handle missing or invalid data appropriately.
+5. **Store the Data**:
+    - Save your cleaned dataset as a CSV file for further analysis.
+
+## Summary of the Dataset
+
+The final dataset includes the following variables for each property:
+
+- **Price**: The listing price of the house, converted to numeric format.
+- **Address**: The full address, with the city extracted separately for analysis.
+- **City**: The city within Orange County where the property is located.
+- **Beds**: The number of bedrooms.
+- **Baths**: The number of bathrooms.
+- **Square Feet**: The total square footage of the property.
+
+## Summary Statistics and Visualizations
+
+- **Mean Price**: $1,250,000 (example value)
+- **Median Square Footage**: 2,500 sqft
+- **Distribution of Bedrooms and Bathrooms**
+
+!Distribution of Bedrooms
+!Distribution of Bathrooms
+
+## Conclusions and Next Steps
+
+The data reveals that ___ are significant factors influencing house prices in Orange County. The scatter plot highlights a clear trend: ___.
+
+## Further Information and Resources
+
+- For a detailed guide on web scraping best practices, check out Web Scraping Best Practices.
+- To explore the dataset further and access the code, visit my GitHub repository.
+- Learn more about real estate data analysis here.
+
+---
+
+By following these steps, you can start your own project to analyze housing prices in Orange County. Happy analyzing!
