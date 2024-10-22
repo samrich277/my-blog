@@ -1,17 +1,13 @@
 ---
 layout: post
 
-title: "Housing Pricing in Orange County"
+title: "Unveiling the Secrets of Orange County's Housing Market: A Data-Driven Analysis"
 author: Samantha Richardson
 description: "Discover what drives housing prices in one of California’s most sought-after regions. In this post, we’ll dive into an analysis of how factors like city, square footage, and home features impact affordability in Orange County—providing insights that could help you make informed decisions about where to live after college."
 image: /assets/images/orange_county1.jpg
 ---
 
-# Analyzing Housing Prices in Orange County: A Data-Driven Approach
-
-## Introduction
-
-In today’s competitive housing market, understanding the dynamics behind real estate prices is crucial for both buyers and investors. This project aims to explore the housing market in Orange County, California, a region known for its luxurious homes and high property values. By curating and analyzing data on house listings, I hope to uncover trends and patterns in pricing, square footage, and other relevant factors.
+In today’s competitive housing market, understanding the dynamics behind real estate prices is crucial for both buyers and investors. This project delves into the housing market in Orange County, California, a region renowned for its luxurious homes and high property values. By curating and analyzing data on house listings, I aim to uncover trends and patterns in pricing, square footage, and other relevant factors.
 
 ## Motivating Question
 
@@ -27,7 +23,7 @@ Before diving into data collection, it's essential to consider ethical guideline
 
 ## How to Get Started: Step-by-Step Guide
 
-If you want to carry out a similar project, follow these steps:
+If you want to embark on a similar data project, follow these steps:
 
 1. **Choose a Target Website**: Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
 2. **Set Up Your Environment**:
