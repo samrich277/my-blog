@@ -6,10 +6,10 @@ author: Samantha Richardson
 description: "Discover what drives housing prices in one of California’s most sought-after regions. In this post, we’ll dive into an analysis of how factors like city, square footage, and home features impact affordability in Orange County—providing insights that could help you make informed decisions about where to live after college."
 image: /assets/images/orange_county1.jpg
 ---
+<img src="https://samrich277.github.io/my-blog/assets/images/house.png" alt="House" style="width:350px; float: right; margin-left: 15px;"/>
 
 Growing up in the sunny neighborhoods of Orange County, California, I always imagined moving back someday—if I could find something in this wild housing market! With homes that range from cozy to luxurious (and price tags that match), navigating the OC real estate scene can feel like a game. In this project, I dive into the data to decode the trends behind these sky-high prices, exploring everything from square footage to location. Whether you're a hopeful buyer like me or an investor with an eye on the prize, let’s uncover what makes Orange County’s market tick.
 
-<img src="https://samrich277.github.io/my-blog/assets/images/house.png" alt="House" style="width:350px; float: right; margin-left: 15px;"/>
 
 ## Motivating Question
 
