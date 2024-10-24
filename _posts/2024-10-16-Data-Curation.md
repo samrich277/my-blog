@@ -7,7 +7,9 @@ description: "Discover what drives housing prices in one of California’s most 
 image: /assets/images/orange_county1.jpg
 ---
 
-In today’s competitive housing market, understanding the dynamics behind real estate prices is crucial for both buyers and investors. This project delves into the housing market in Orange County, California, a region renowned for its luxurious homes and high property values. By curating and analyzing data on house listings, I aim to uncover trends and patterns in pricing, square footage, and other relevant factors.
+Growing up in the sunny neighborhoods of Orange County, California, I always imagined moving back someday—if I could find something in this wild housing market! With homes that range from cozy to luxurious (and price tags that match), navigating the OC real estate scene can feel like a game. In this project, I dive into the data to decode the trends behind these sky-high prices, exploring everything from square footage to location. Whether you're a hopeful buyer like me or an investor with an eye on the prize, let’s uncover what makes Orange County’s market tick.
+
+<img src="https://samrich277.github.io/my-blog/assets/images/red_house.jpg" alt="Data Science" style="width:350px; float: right; margin-left: 15px;"/>
 
 ## Motivating Question
 
