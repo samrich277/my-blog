@@ -1,5 +1,4 @@
----
-layout: post
+i have this in markdown for my blog post. i need a lot more content and i want to walkthrough how i scraped the website and show some code snippets along the way. keep it entertaining!: layout: post
 
 title: "Unveiling the Secrets of Orange County's Housing Market: A Data-Driven Analysis"
 author: Samantha Richardson
@@ -19,7 +18,7 @@ The primary question guiding this project is: **What are the key factors that in
 
 Before diving into data collection, it's essential to consider ethical guidelines and best practices for web scraping:
 
-- **Respect Website Policies**: Always check the website’s `robots.txt` file to ensure that scraping is allowed.
+- **Respect Website Policies**: Always check the website’s robots.txt file to ensure that scraping is allowed.
 - **Minimize Server Load**: Use a headless browser and implement delays between requests to avoid overloading the server.
 - **Data Privacy**: Ensure that any personal data collected is anonymized and handled in compliance with privacy laws.
 
@@ -27,7 +26,7 @@ Before diving into data collection, it's essential to consider ethical guideline
 
 If you want to embark on a similar data project, follow these steps:
 
-1. **Choose a Target Website**: Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
+1. **Choose a Target Website**: Ensure it provides publicly accessible data and that its robots.txt file doesn’t prohibit scraping.
 2. **Set Up Your Environment**:
     - Install Selenium and a web driver like ChromeDriver.
     - Use a headless browser to reduce server load.
