@@ -1,4 +1,5 @@
-i have this in markdown for my blog post. i need a lot more content and i want to walkthrough how i scraped the website and show some code snippets along the way. keep it entertaining!: layout: post
+---
+layout: post
 
 title: "Unveiling the Secrets of Orange County's Housing Market: A Data-Driven Analysis"
 author: Samantha Richardson
@@ -9,6 +10,7 @@ image: /assets/images/orange_county1.jpg
 
 Growing up in the sunny neighborhoods of Orange County, California, I always imagined moving back someday—if I could find something in this wild housing market! With homes that range from cozy to luxurious (and price tags that match), navigating the OC real estate scene can feel like a game. In this project, I dive into the data to decode the trends behind these sky-high prices, exploring everything from square footage to location. Whether you're a hopeful buyer like me or an investor with an eye on the prize, let’s uncover what makes Orange County’s market tick.
 
+---
 
 ## Motivating Question
 
@@ -18,7 +20,7 @@ The primary question guiding this project is: **What are the key factors that in
 
 Before diving into data collection, it's essential to consider ethical guidelines and best practices for web scraping:
 
-- **Respect Website Policies**: Always check the website’s robots.txt file to ensure that scraping is allowed.
+- **Respect Website Policies**: Always check the website’s `robots.txt` file to ensure that scraping is allowed.
 - **Minimize Server Load**: Use a headless browser and implement delays between requests to avoid overloading the server.
 - **Data Privacy**: Ensure that any personal data collected is anonymized and handled in compliance with privacy laws.
 
@@ -26,7 +28,7 @@ Before diving into data collection, it's essential to consider ethical guideline
 
 If you want to embark on a similar data project, follow these steps:
 
-1. **Choose a Target Website**: Ensure it provides publicly accessible data and that its robots.txt file doesn’t prohibit scraping.
+1. **Choose a Target Website**: Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
 2. **Set Up Your Environment**:
     - Install Selenium and a web driver like ChromeDriver.
     - Use a headless browser to reduce server load.
@@ -72,3 +74,5 @@ The data reveals that ___ are significant factors influencing house prices in Or
 ---
 
 By following these steps, you can start your own project to analyze housing prices in Orange County. Happy analyzing!
+
+
