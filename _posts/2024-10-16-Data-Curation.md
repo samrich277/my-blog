@@ -38,12 +38,17 @@ If you want to embark on a similar data project, follow these steps:
     - Use a headless browser to reduce server load.
     - Import the necessary libraries. 
 
-<img src="https://samrich277.github.io/my-blog/assets/images/imports.png" alt="imports" style="width:350px; float: right; margin-left: 15px;"/>
+![imports](https://samrich277.github.io/my-blog/assets/images/imports.png)
 
 3. **Write the Scraping Code**:
     - Identify the relevant HTML elements (e.g., price, address, city, beds, bath, square feet) using browser developer tools.
+
+![main](https://samrich277.github.io/my-blog/assets/images/main_code.png)
     
     - Implement pagination to navigate through all pages of listings.
+
+![paginate](https://samrich277.github.io/my-blog/assets/images/paginate_code.png)
+
 4. **Clean the Data**:
     - Remove any unwanted symbols (e.g., dollar signs) and convert text values (e.g., "5 bds") to integers.
     - Handle missing or invalid data appropriately.
