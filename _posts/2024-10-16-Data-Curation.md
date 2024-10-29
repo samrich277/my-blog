@@ -33,7 +33,7 @@ If you want to embark on a similar data project, follow these steps:
 1. **Choose a Target Website**: 
 - Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
 - I found my Orange County housing data from [Houzeo](https://www.houzeo.com/homes-for-sale/california/orange-county)  
-
+<br>
 
 2. **Set Up Your Environment**:
 - Install Selenium and a web driver like [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads/version-selection).
@@ -42,7 +42,7 @@ If you want to embark on a similar data project, follow these steps:
 
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/imports.png" alt="imports" width="600"/>
-</div><br>
+</div>
 <br>
 
 3. **Write the Scraping Code**:
@@ -53,7 +53,7 @@ If you want to embark on a similar data project, follow these steps:
 
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/main_code.png" alt="main" width="600"/>
-</div><br>
+</div>
 <br> 
 
 - Implement pagination to navigate through all pages of listings.
@@ -61,6 +61,7 @@ If you want to embark on a similar data project, follow these steps:
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/paginate_code.png" alt="paginate" width="600"/>
 </div>  
+<br>
 
 4. **Clean the Data**:
     - Remove any unwanted symbols (e.g., dollar signs) and convert text values (e.g., "5 bds") to integers.
@@ -69,6 +70,7 @@ If you want to embark on a similar data project, follow these steps:
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/cleaned_data.png" alt="clean" width="600"/>
 </div>
+<br>
 
 5. **Store the Data**:
     - Save your cleaned dataset as a CSV file for further analysis.
@@ -76,6 +78,8 @@ If you want to embark on a similar data project, follow these steps:
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/csv_code.png" alt="csv" width="600"/>
 </div>  
+<br>
+<br>
 
 
 
