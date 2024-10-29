@@ -32,7 +32,7 @@ If you want to embark on a similar data project, follow these steps:
 
 1. **Choose a Target Website**: 
 - Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
-- I found my Orange County housing data from [Houzeo](https://www.houzeo.com/homes-for-sale/california/orange-county)
+- I found my Orange County housing data from [Houzeo](https://www.houzeo.com/homes-for-sale/california/orange-county)  
 
 
 2. **Set Up Your Environment**:
@@ -43,7 +43,6 @@ If you want to embark on a similar data project, follow these steps:
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/imports.png" alt="imports" width="600"/>
 </div><br>
-
 <br>
 
 3. **Write the Scraping Code**:
@@ -55,8 +54,6 @@ If you want to embark on a similar data project, follow these steps:
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/main_code.png" alt="main" width="600"/>
 </div><br>
-
-
 <br> 
 
 - Implement pagination to navigate through all pages of listings.
