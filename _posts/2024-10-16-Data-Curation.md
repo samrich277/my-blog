@@ -29,8 +29,6 @@ Before diving into data collection, it's essential to consider ethical guideline
 
 ---
 
-<br>
-
 ## How to Get Started: Step-by-Step Guide
 
 If you want to embark on a similar data project, follow these steps:
