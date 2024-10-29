@@ -14,7 +14,9 @@ Growing up in the sunny neighborhoods of Orange County, California, I always ima
 
 ## Motivating Question
 
-The primary question guiding this project is: **What are the key factors that influence housing prices in Orange County?**
+The primary question guiding this project is: 
+
+**What are the key factors that influence housing prices in Orange County?**
 
 ## Ethical Considerations and Scraping Best Practices
 
@@ -28,12 +30,19 @@ Before diving into data collection, it's essential to consider ethical guideline
 
 If you want to embark on a similar data project, follow these steps:
 
-1. **Choose a Target Website**: Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
+1. **###Choose a Target Website**: 
+    - Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
+    - I found my Orange County housing data from [Houzeo](https://www.houzeo.com/homes-for-sale/california/orange-county)
 2. **Set Up Your Environment**:
-    - Install Selenium and a web driver like ChromeDriver.
+    - Install Selenium and a web driver like [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads/version-selection).
     - Use a headless browser to reduce server load.
+    - Import the necessary libraries. 
+
+<img src="https://samrich277.github.io/my-blog/assets/images/imports.png" alt="imports" style="width:350px; float: right; margin-left: 15px;"/>
+
 3. **Write the Scraping Code**:
-    - Identify the relevant HTML elements (e.g., price, address) using browser developer tools.
+    - Identify the relevant HTML elements (e.g., price, address, city, beds, bath, square feet) using browser developer tools.
+    
     - Implement pagination to navigate through all pages of listings.
 4. **Clean the Data**:
     - Remove any unwanted symbols (e.g., dollar signs) and convert text values (e.g., "5 bds") to integers.
