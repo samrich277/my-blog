@@ -29,6 +29,9 @@ Before diving into data collection, it's essential to consider ethical guideline
 ## How to Get Started: Step-by-Step Guide
 
 If you want to embark on a similar data project, follow these steps:
+<br>
+---
+<br>
 
 1. **Choose a Target Website**: 
 - Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
@@ -79,6 +82,7 @@ If you want to embark on a similar data project, follow these steps:
     <img src="https://samrich277.github.io/my-blog/assets/images/csv_code.png" alt="csv" width="600"/>
 </div>  
 <br>
+---
 <br>
 
 
