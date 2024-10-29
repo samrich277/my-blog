@@ -3,7 +3,7 @@ layout: post
 
 title: "Unveiling the Secrets of Orange County's Housing Market: A Data-Driven Analysis"
 author: Samantha Richardson
-description: "Discover what drives housing prices in one of California’s most sought-after regions. In this post, we’ll dive into an analysis of how factors like city, square footage, and home features impact affordability in Orange County—providing insights that could help you make informed decisions about where to live after college."
+description: "Explore the foundations of housing data in one of California’s most competitive real estate markets. In this post, we’ll walk through the process of gathering and organizing essential details from Orange County listings. This groundwork will set the stage for a deeper dive in the next post, where we’ll analyze these factors and uncover what drives affordability in the area."
 image: /assets/images/orange_county1.jpg
 ---
 <img src="https://samrich277.github.io/my-blog/assets/images/house_icon.png" alt="House_icon" style="width:150px; float: right; margin-left: 15px;"/>
@@ -55,7 +55,7 @@ If you want to embark on a similar data project, follow these steps:
 3: **Write the Scraping Code**:
 - Identify the relevant HTML elements (e.g., price, address, city, beds, bath, square feet) using browser developer tools.
 - Scrape each of the *House* Cards from the website
-    - From there, go through an extract price, address, city, beds, bath, and square feet by using the inspect page to find the relevant class names and scrape accordingly.
+    - From there, go through and extract price, address, city, beds, bath, and square feet by using the inspect page to find the relevant class names and scrape accordingly.
     - Append all of the housing info to an empty list called *houses_data* which we will convert into a dataframe and clean in later steps! 
 
 <div style="text-align: center;">
@@ -64,8 +64,8 @@ If you want to embark on a similar data project, follow these steps:
 <br> 
 
 - Implement pagination to navigate through all pages of listings.
-- This code finds the *next* button through the inspect page and "clicks" that button over and over again until it has scraped all of the pages. 
-- *time.sleep(3)* ensures that the page has enough time to load after every click
+    - This code finds the *next* button through the inspect page and "clicks" that button over and over again until it has scraped all of the pages. 
+    - *time.sleep(3)* ensures that the page has enough time to load after every click
 
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/next.png" alt="next" width="600"/>
@@ -78,7 +78,8 @@ If you want to embark on a similar data project, follow these steps:
 
 4: **Clean the Data**:
 - Remove any unwanted symbols (e.g., dollar signs) and convert text values (e.g., "5 Bds") to integers.
-- For Example: When web scraped, the number of beds is saved in our dataframs as "5 Bds". We need our bed number to be an integer so we can work with it in our later analysis of our data. To do this, I created a function that takes the "messy" output and cleans it by checking if it's a string, and splitting the string up so we can remove the "Bds" section, and turn the remaining number into an integer! Easy peasy! (Code shown below)
+- For Example: 
+    - When web scraped, the number of beds is saved in our dataframs as "5 Bds". We need our bed number to be an integer so we can work with it in our later analysis of our data. To do this, I created a function that takes the "messy" output and cleans it by checking if it's a string, and splitting the string up so we can remove the "Bds" section, and turn the remaining number into an integer! Easy peasy! (Code shown below)
 
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/cleaned_data.png" alt="clean" width="600"/>
