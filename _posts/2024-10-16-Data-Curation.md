@@ -35,6 +35,8 @@ If you want to embark on a similar data project, follow these steps:
 
 <br>
 
+<img src="https://samrich277.github.io/my-blog/assets/images/houzeo.png" alt="houzeo" style="width:400px; float: right; margin-left: 15px;"/>
+
 1: **Choose a Target Website**: 
 - Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
 - I found my Orange County housing data from [Houzeo](https://www.houzeo.com/homes-for-sale/california/orange-county)  
@@ -84,7 +86,7 @@ If you want to embark on a similar data project, follow these steps:
 <br>
 
 5: **Store the Data**:
-    - Save your cleaned dataset as a CSV file for further analysis.
+- Save your cleaned dataset as a CSV file for further analysis.
 
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/csv_code.png" alt="csv" width="600"/>
@@ -92,9 +94,6 @@ If you want to embark on a similar data project, follow these steps:
 <br>
 
 ---
-
-
-
 
 ## Summary of the Dataset
 
@@ -107,9 +106,9 @@ The final dataset includes the following variables for each property:
 - **Baths**: The number of bathrooms.
 - **Square Feet**: The total square footage of the property.
 
-<div style="text-align: center;">
-    <img src="https://samrich277.github.io/my-blog/assets/images/cleaned_csv.png" alt="cleaned_csv" width="700"/>
-</div>
+Below is the first row of the datasaet, to show what the data looks like:
+
+![cleaned_csv](https://samrich277.github.io/my-blog/assets/images/cleaned_csv.png)
 <br>
 
 ## Summary Statistics and Visualizations
