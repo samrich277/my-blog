@@ -26,8 +26,11 @@ Before diving into data collection, it's essential to consider ethical guideline
 - **Minimize Server Load**: Use a headless browser and implement delays between requests to avoid overloading the server.
 - **Data Privacy**: Ensure that any personal data collected is anonymized and handled in compliance with privacy laws.
 <br>
+
 ---
+
 <br>
+
 ## How to Get Started: Step-by-Step Guide
 
 If you want to embark on a similar data project, follow these steps:
