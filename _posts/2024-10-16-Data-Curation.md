@@ -45,9 +45,9 @@ If you want to embark on a similar data project, follow these steps:
 
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/imports.png" alt="imports" width="600"/>
-</div>
+</div><br>
 
----
+<br>---
 
 3: **Write the Scraping Code**:
 - Identify the relevant HTML elements (e.g., price, address, city, beds, bath, square feet) using browser developer tools.
@@ -55,13 +55,17 @@ If you want to embark on a similar data project, follow these steps:
     - From there, go through an extract price, address, city, beds, bath, and square feet by using the inspect page to find the relevant class names and scrape accordingly.
     - Append all of the housing info to an empty list called *houses_data* which we will convert into a dataframe and clean in later steps! 
 
-<img src="https://samrich277.github.io/my-blog/assets/images/main_code.png" alt="main" width="600"/>
+<div style="text-align: center;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/main_code.png" alt="main" width="600"/>
+</div>
 
 ---
 
 - Implement pagination to navigate through all pages of listings.
 
-<img src="https://samrich277.github.io/my-blog/assets/images/paginate_code.png" alt="paginate" width="400"/>
+<div style="text-align: center;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/paginate_code.png" alt="paginate" width="600"/>
+</div>  
 
 ---
 
@@ -69,14 +73,18 @@ If you want to embark on a similar data project, follow these steps:
     - Remove any unwanted symbols (e.g., dollar signs) and convert text values (e.g., "5 bds") to integers.
     - For Example: When web scraped, the number of beds is saved in our dataframs as "5 Bds". We need our bed number to be an integer so we can work with it in our later analysis of our data. To do this, I created a function that takes the "messy" output and cleans it by checking if it's a string, and splitting the string up so we can remove the "Bds" section, and turn the remaining number into an integer! Easy peasy! (Code shown below)
 
-<img src="https://samrich277.github.io/my-blog/assets/images/cleaned_data.png" alt="clean" width="400"/>
+<div style="text-align: center;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/cleaned_data.png" alt="clean" width="600"/>
+</div>
 
 ---
 
 5: **Store the Data**:
     - Save your cleaned dataset as a CSV file for further analysis.
 
-<img src="https://samrich277.github.io/my-blog/assets/images/csv_code.png" alt="csv" width="400"/>
+<div style="text-align: center;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/csv_code.png" alt="csv" width="600"/>
+</div>  
 
 ---
 
