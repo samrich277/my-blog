@@ -33,20 +33,19 @@ If you want to embark on a similar data project, follow these steps:
 1. **Choose a Target Website**: 
     - Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
     - I found my Orange County housing data from [Houzeo](https://www.houzeo.com/homes-for-sale/california/orange-county)
+
+<img src="https://samrich277.github.io/my-blog/assets/images/imports.png" alt="House" style="width:400px; float: right; margin-left: 15px;"/>
+
 2. **Set Up Your Environment**:
     - Install Selenium and a web driver like [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads/version-selection).
     - Use a headless browser to reduce server load.
     - Import the necessary libraries. 
 
 
-![imports](https://samrich277.github.io/my-blog/assets/images/imports.png)
-
-
 3. **Write the Scraping Code**:
     - Identify the relevant HTML elements (e.g., price, address, city, beds, bath, square feet) using browser developer tools.
 
-
-![main](https://samrich277.github.io/my-blog/assets/images/main_code.png)
+<img src="https://samrich277.github.io/my-blog/assets/images/main_code.png" alt="House" style="width:400px; float: right; margin-left: 15px;"/>
     
 
 - Implement pagination to navigate through all pages of listings.
