@@ -33,6 +33,7 @@ If you want to embark on a similar data project, follow these steps:
 
 ---
 
+<br>
 
 1: **Choose a Target Website**: 
 - Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
@@ -101,6 +102,11 @@ The final dataset includes the following variables for each property:
 - **Beds**: The number of bedrooms.
 - **Baths**: The number of bathrooms.
 - **Square Feet**: The total square footage of the property.
+
+<div style="text-align: center;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/cleaned_csv.png" alt="cleaned_csv" width="600"/>
+</div>
+<br>
 
 ## Summary Statistics and Visualizations
 
