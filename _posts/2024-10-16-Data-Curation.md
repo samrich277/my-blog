@@ -66,13 +66,17 @@ If you want to embark on a similar data project, follow these steps:
 - *time.sleep(3)* ensures that the page has enough time to load after every click
 
 <div style="text-align: center;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/next.png" alt="next" width="600"/>
+</div>  
+<br>
+<div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/paginate_code.png" alt="paginate" width="600"/>
 </div>  
 <br>
 
 4: **Clean the Data**:
-    - Remove any unwanted symbols (e.g., dollar signs) and convert text values (e.g., "5 Bds") to integers.
-    - For Example: When web scraped, the number of beds is saved in our dataframs as "5 Bds". We need our bed number to be an integer so we can work with it in our later analysis of our data. To do this, I created a function that takes the "messy" output and cleans it by checking if it's a string, and splitting the string up so we can remove the "Bds" section, and turn the remaining number into an integer! Easy peasy! (Code shown below)
+- Remove any unwanted symbols (e.g., dollar signs) and convert text values (e.g., "5 Bds") to integers.
+- For Example: When web scraped, the number of beds is saved in our dataframs as "5 Bds". We need our bed number to be an integer so we can work with it in our later analysis of our data. To do this, I created a function that takes the "messy" output and cleans it by checking if it's a string, and splitting the string up so we can remove the "Bds" section, and turn the remaining number into an integer! Easy peasy! (Code shown below)
 
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/cleaned_data.png" alt="clean" width="600"/>
@@ -104,7 +108,7 @@ The final dataset includes the following variables for each property:
 - **Square Feet**: The total square footage of the property.
 
 <div style="text-align: center;">
-    <img src="https://samrich277.github.io/my-blog/assets/images/cleaned_csv.png" alt="cleaned_csv" width="600"/>
+    <img src="https://samrich277.github.io/my-blog/assets/images/cleaned_csv.png" alt="cleaned_csv" width="700"/>
 </div>
 <br>
 
