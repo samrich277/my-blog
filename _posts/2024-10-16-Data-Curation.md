@@ -111,24 +111,23 @@ Below is the first row of the datasaet, to show what the data looks like:
 ![cleaned_csv](https://samrich277.github.io/my-blog/assets/images/cleaned_csv.png)
 <br>
 
-## Summary Statistics and Visualizations
-
-- **Mean Price**: $1,250,000 (example value)
-- **Median Square Footage**: 2,500 sqft
-- **Distribution of Bedrooms and Bathrooms**
-
-!Distribution of Bedrooms
-!Distribution of Bathrooms
+---
 
 ## Conclusions and Next Steps
 
-The data reveals that ___ are significant factors influencing house prices in Orange County. The scatter plot highlights a clear trend: ___.
+Are you curious to see how we can unlock hidden insights in the Orange County housing market? In my next blog post, I’ll dive headfirst into exploratory data analysis (EDA) to uncover key trends and insights that could guide your search for the perfect home. I’ll be tackling questions like:
+
+- Which city in Orange County offers the most value for your budget?
+- What matters more in determining price: spacious square footage or the number of bedrooms?
+- And so much more!
+
+Stay tuned as I break down the numbers, bust some myths, and give you a roadmap for navigating this challenging market. Don’t miss it – your dream home might just be a data insight away!
 
 ## Further Information and Resources
 
-- For a detailed guide on web scraping best practices, check out Web Scraping Best Practices.
-- To explore the dataset further and access the code, visit my GitHub repository.
-- Learn more about real estate data analysis here.
+- For a detailed guide on web scraping best practices, check out [Web Scraping Best Practices](https://medium.com/velotio-perspectives/web-scraping-introduction-best-practices-caveats-9cbf4acc8d0f).
+- Learn more about real estate data analysis [here](https://www.placer.ai/guides/real-estate-data-analytics).
+- Make sure to leave a comment on what you would like to see from me next!
 
 ---
 
