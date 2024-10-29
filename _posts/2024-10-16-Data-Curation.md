@@ -6,7 +6,7 @@ author: Samantha Richardson
 description: "Discover what drives housing prices in one of California’s most sought-after regions. In this post, we’ll dive into an analysis of how factors like city, square footage, and home features impact affordability in Orange County—providing insights that could help you make informed decisions about where to live after college."
 image: /assets/images/orange_county1.jpg
 ---
-<img src="https://samrich277.github.io/my-blog/assets/images/house_icon.png" alt="House_icon" style="width:200px; float: right; margin-left: 15px;"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/house_icon.png" alt="House_icon" style="width:150px; float: right; margin-left: 15px;"/>
 
 Growing up in the sunny neighborhoods of Orange County, California, I always imagined moving back someday—if I could find something in this wild housing market! With homes that range from cozy to luxurious (and price tags that match), navigating the OC real estate scene can feel like a game. In this project, I dive into the data to decode the trends behind these sky-high prices, exploring everything from square footage to location. Whether you're a hopeful buyer like me or an investor with an eye on the prize, let’s uncover what makes Orange County’s market tick.
 
@@ -115,7 +115,7 @@ Below is the first row of the datasaet, to show what the data looks like:
 
 ## Conclusions and Next Steps
 
-<img src="https://samrich277.github.io/my-blog/assets/images/house_bought.png" alt="House_buy" style="width:350px; float: right; margin-left: 15px;"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/house_bought.png" alt="House_buy" style="width:300px; float: right; margin-left: 15px;"/>
 
 
 Are you curious to see how we can unlock hidden insights in the Orange County housing market? In my next blog post, I’ll dive headfirst into exploratory data analysis (EDA) to uncover key trends and insights that could guide your search for the perfect home. I’ll be tackling questions like:
@@ -125,6 +125,8 @@ Are you curious to see how we can unlock hidden insights in the Orange County ho
 - And so much more!
 
 Stay tuned as I break down the numbers, bust some myths, and give you a roadmap for navigating this challenging market. Don’t miss it – your dream home might just be a data insight away!
+
+---
 
 ## Further Information and Resources
 
