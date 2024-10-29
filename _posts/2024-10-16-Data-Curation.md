@@ -30,9 +30,13 @@ Before diving into data collection, it's essential to consider ethical guideline
 
 If you want to embark on a similar data project, follow these steps:
 
+---
+
 1. **Choose a Target Website**: 
     - Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
     - I found my Orange County housing data from [Houzeo](https://www.houzeo.com/homes-for-sale/california/orange-county)
+
+---
 
 <img src="https://samrich277.github.io/my-blog/assets/images/imports.png" alt="House" style="width:450px; float: right; margin-left: 15px;"/>
 
@@ -41,32 +45,35 @@ If you want to embark on a similar data project, follow these steps:
     - Use a headless browser to reduce server load.
     - Import the necessary libraries. 
 
+---
+
+<img src="https://samrich277.github.io/my-blog/assets/images/main_code.png" alt="House" style="width:450px; float: right; margin-left: 15px;"/>
 
 3. **Write the Scraping Code**:
     - Identify the relevant HTML elements (e.g., price, address, city, beds, bath, square feet) using browser developer tools.
 
-<img src="https://samrich277.github.io/my-blog/assets/images/main_code.png" alt="House" style="width:450px; float: right; margin-left: 15px;"/>
-    
-
-- Implement pagination to navigate through all pages of listings.
-
+---
 
 <img src="https://samrich277.github.io/my-blog/assets/images/paginate_code.png" alt="House" style="width:450px; float: right; margin-left: 15px;"/>
 
+- Implement pagination to navigate through all pages of listings.
+
+---
+
+<img src="https://samrich277.github.io/my-blog/assets/images/cleaned_data.png" alt="House" style="width:450px; float: right; margin-left: 15px;"/>
 
 4. **Clean the Data**:
     - Remove any unwanted symbols (e.g., dollar signs) and convert text values (e.g., "5 bds") to integers.
     - For Example: When web scraped, the number of beds is saved in our dataframs as "5 Bds". We need our bed number to be an integer so we can work with it in our later analysis of our data. To do this, I created a function that takes the "messy" output and cleans it by checking if it's a string, and splitting the string up so we can remove the "Bds" section, and turn the remaining number into an integer! Easy peasy! (Code shown below)
 
+---
 
-<img src="https://samrich277.github.io/my-blog/assets/images/cleaned_data.png" alt="House" style="width:450px; float: right; margin-left: 15px;"/>
-
+<img src="https://samrich277.github.io/my-blog/assets/images/csv_code.png" alt="House" style="width:450px; float: right; margin-left: 15px;"/>
 
 5. **Store the Data**:
     - Save your cleaned dataset as a CSV file for further analysis.
 
-
-<img src="https://samrich277.github.io/my-blog/assets/images/csv_code.png" alt="House" style="width:450px; float: right; margin-left: 15px;"/>
+---
 
 
 ## Summary of the Dataset
