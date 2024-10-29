@@ -45,13 +45,16 @@ If you want to embark on a similar data project, follow these steps:
 
 ![main](https://samrich277.github.io/my-blog/assets/images/main_code.png)
     
-    - Implement pagination to navigate through all pages of listings.
+- Implement pagination to navigate through all pages of listings.
 
 ![paginate](https://samrich277.github.io/my-blog/assets/images/paginate_code.png)
 
 4. **Clean the Data**:
     - Remove any unwanted symbols (e.g., dollar signs) and convert text values (e.g., "5 bds") to integers.
-    - Handle missing or invalid data appropriately.
+    - For Example: When web scraped, house price 
+
+![clean](https://samrich277.github.io/my-blog/assets/images/cleaned_data.png)
+
 5. **Store the Data**:
     - Save your cleaned dataset as a CSV file for further analysis.
 
