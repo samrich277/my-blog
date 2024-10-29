@@ -6,7 +6,7 @@ author: Samantha Richardson
 description: "Discover what drives housing prices in one of California’s most sought-after regions. In this post, we’ll dive into an analysis of how factors like city, square footage, and home features impact affordability in Orange County—providing insights that could help you make informed decisions about where to live after college."
 image: /assets/images/orange_county1.jpg
 ---
-<img src="https://samrich277.github.io/my-blog/assets/images/house.png" alt="House" style="width:350px; float: right; margin-left: 15px;"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/house_icon.png" alt="House_icon" style="width:350px; float: right; margin-left: 15px;"/>
 
 Growing up in the sunny neighborhoods of Orange County, California, I always imagined moving back someday—if I could find something in this wild housing market! With homes that range from cozy to luxurious (and price tags that match), navigating the OC real estate scene can feel like a game. In this project, I dive into the data to decode the trends behind these sky-high prices, exploring everything from square footage to location. Whether you're a hopeful buyer like me or an investor with an eye on the prize, let’s uncover what makes Orange County’s market tick.
 
@@ -115,6 +115,9 @@ Below is the first row of the datasaet, to show what the data looks like:
 
 ## Conclusions and Next Steps
 
+<img src="https://samrich277.github.io/my-blog/assets/images/house_buy.png" alt="House_buy" style="width:350px; float: right; margin-left: 15px;"/>
+
+
 Are you curious to see how we can unlock hidden insights in the Orange County housing market? In my next blog post, I’ll dive headfirst into exploratory data analysis (EDA) to uncover key trends and insights that could guide your search for the perfect home. I’ll be tackling questions like:
 
 - Which city in Orange County offers the most value for your budget?
@@ -129,8 +132,5 @@ Stay tuned as I break down the numbers, bust some myths, and give you a roadmap 
 - Learn more about real estate data analysis [here](https://www.placer.ai/guides/real-estate-data-analytics).
 - Make sure to leave a comment on what you would like to see from me next!
 
----
-
-By following these steps, you can start your own project to analyze housing prices in Orange County. Happy analyzing!
 
 
