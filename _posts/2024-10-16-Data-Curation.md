@@ -30,7 +30,9 @@ Before diving into data collection, it's essential to consider ethical guideline
 
 If you want to embark on a similar data project, follow these steps:
 <br>
+
 ---
+
 <br>
 
 1. **Choose a Target Website**: 
@@ -60,6 +62,8 @@ If you want to embark on a similar data project, follow these steps:
 <br> 
 
 - Implement pagination to navigate through all pages of listings.
+- This code finds the *next* button through the inspect page and "clicks" that button over and over again until it has scraped all of the pages. 
+- *time.sleep(3)* ensures that the page has enough time to load after every click
 
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/paginate_code.png" alt="paginate" width="600"/>
@@ -82,7 +86,8 @@ If you want to embark on a similar data project, follow these steps:
     <img src="https://samrich277.github.io/my-blog/assets/images/csv_code.png" alt="csv" width="600"/>
 </div>  
 <br>
----
+___
+
 <br>
 
 
