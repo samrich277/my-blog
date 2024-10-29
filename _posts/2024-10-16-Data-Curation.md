@@ -47,6 +47,11 @@ If you want to embark on a similar data project, follow these steps:
 
 ---
 
+|   - Install Selenium and a web driver like [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads/version-selection).
+    - Use a headless browser to reduce server load.
+    - Import the necessary libraries.  | ![imports](/imports.png) |
+---
+
 <img src="https://samrich277.github.io/my-blog/assets/images/main_code.png" alt="House" style="width:450px; float: right; margin-left: 15px;"/>
 
 3: **Write the Scraping Code**:
