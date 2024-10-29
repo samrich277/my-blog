@@ -33,27 +33,29 @@ If you want to embark on a similar data project, follow these steps:
 ---
 
 1: **Choose a Target Website**: 
-    - Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
-    - I found my Orange County housing data from [Houzeo](https://www.houzeo.com/homes-for-sale/california/orange-county)
+- Ensure it provides publicly accessible data and that its `robots.txt` file doesn’t prohibit scraping.
+- I found my Orange County housing data from [Houzeo](https://www.houzeo.com/homes-for-sale/california/orange-county)
 
 ---
 
 2: **Set Up Your Environment**:
-    - Install Selenium and a web driver like [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads/version-selection).
-    - Use a headless browser to reduce server load.
-    - Import the necessary libraries. 
+- Install Selenium and a web driver like [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads/version-selection).
+- Use a headless browser to reduce server load.
+- Import the necessary libraries. 
 
-<img src="https://samrich277.github.io/my-blog/assets/images/imports.png" alt="imports" width="400"/>
+<div style="text-align: center;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/imports.png" alt="imports" width="600"/>
+</div>
 
 ---
 
 3: **Write the Scraping Code**:
-    - Identify the relevant HTML elements (e.g., price, address, city, beds, bath, square feet) using browser developer tools.
-    - Scrape each of the *House* Cards from the website
-        - From there, go through an extract price, address, city, beds, bath, and square feet by using the inspect page to find the relevant class names and scrape accordingly.
-        - Append all of the housing info to an empty list called *houses_data* which we will convert into a dataframe and clean in later steps! 
+- Identify the relevant HTML elements (e.g., price, address, city, beds, bath, square feet) using browser developer tools.
+- Scrape each of the *House* Cards from the website
+    - From there, go through an extract price, address, city, beds, bath, and square feet by using the inspect page to find the relevant class names and scrape accordingly.
+    - Append all of the housing info to an empty list called *houses_data* which we will convert into a dataframe and clean in later steps! 
 
-<img src="https://samrich277.github.io/my-blog/assets/images/main_code.png" alt="main" width="400"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/main_code.png" alt="main" width="600"/>
 
 ---
 
