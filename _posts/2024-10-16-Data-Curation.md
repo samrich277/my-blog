@@ -152,6 +152,7 @@ Stay tuned as I break down the numbers, bust some myths, and give you a roadmap 
 
 - For a detailed guide on web scraping best practices, check out [Web Scraping Best Practices](https://medium.com/velotio-perspectives/web-scraping-introduction-best-practices-caveats-9cbf4acc8d0f).
 - Learn more about real estate data analysis [here](https://www.placer.ai/guides/real-estate-data-analytics).
+- To see my code and look at my dataset, go to my [Git Hub Repo](https://github.com/samrich277/housing-prices.git)
 - Make sure to leave a comment on what you would like to see from me next!
 
 
