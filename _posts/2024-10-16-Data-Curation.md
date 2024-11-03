@@ -125,12 +125,12 @@ The dataset includes 488 properties, with the following summary statistics for e
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/histogram_code.png" alt="imports" width="600"/>
 </div>
+<br>
 <div style="text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/histogram.png" alt="imports" width="600"/>
 </div>
 <br>
 
-Yikes! Good luck out there home buyers!
 ---
 
 ## Conclusions and Next Steps
