@@ -110,6 +110,27 @@ Below is the first row of the datasaet, to show what the data looks like:
 ![cleaned_csv](https://samrich277.github.io/my-blog/assets/images/cleaned_csv.png)
 <br>
 
+## Summary Statistics
+
+The dataset includes 488 properties, with the following summary statistics for each key numeric variable:
+
+- **Price**: Ranges from $1 up to $42,000,000, with a mean of approximately $1,988,457.
+- **Beds**: Properties range from 1 to 13 bedrooms, with an average of 3.4.
+- **Baths**: Properties have between 1 to 12 bathrooms, with an average of 2.8.
+- **Square Feet**: Sizes range from 560 sqft to 26,707 sqft, with a median size of 1,705.5 sqft.
+
+## Price Summary Histogram
+- Below is the code and output to display the distribution of housing prices to highlight price ranges and get a sense for how much you'll be spending in the Orange County housing market. 
+
+<div style="text-align: center;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/histogram_code.png" alt="imports" width="600"/>
+</div>
+<div style="text-align: center;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/histogram.png" alt="imports" width="600"/>
+</div>
+<br>
+
+Yikes! Good luck out there home buyers!
 ---
 
 ## Conclusions and Next Steps
