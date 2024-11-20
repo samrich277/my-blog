@@ -11,7 +11,7 @@ Orange County’s housing market is a labyrinth of sky-high prices and endless f
 
 <img src="https://samrich277.github.io/my-blog/assets/images/streamlit_logo.png" alt="Streamlit Housing App" style="width:225px; float: right; margin-left: 15px;"/>
 
-This time, I’m taking it up a notch. Welcome to **insight-driven interactivity**—where data meets action. With a Streamlit app I built, you can now explore Orange County housing data like never before. Whether you're a potential buyer, an investor, or simply curious about real estate trends, this app puts the power of exploration into your hands.
+This time, I’m taking it up a notch. Welcome to **insight-driven interactivity**—where data meets action. With a [Streamlit App](https://orangecountyhousingapp.streamlit.app/) I built, you can now explore Orange County housing data like never before. Whether you're a potential buyer, an investor, or simply curious about real estate trends, this app puts the power of exploration into your hands.
 
 ---
 
@@ -51,7 +51,7 @@ The scatter plot below shows price versus square footage, and the app allows you
 
 ## Introducing My Streamlit App
 
-To make these insights actionable, I developed an **interactive Streamlit app** that puts the power of exploration in your hands.
+To make these insights actionable, I developed an [interactive Streamlit App](https://orangecountyhousingapp.streamlit.app/) that puts the power of exploration in your hands.
 
 ![Title](https://samrich277.github.io/my-blog/assets/images/title.png)
 
