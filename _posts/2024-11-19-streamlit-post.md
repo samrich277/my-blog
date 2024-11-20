@@ -4,10 +4,10 @@ layout: post
 title: "From Data to Decisions: Exploring Orange County Housing with Interactive Insights"
 author: Samantha Richardson
 description: "Dive deeper into Orange County's housing market with an interactive Streamlit app. In this post, we’ll explore key insights from the data and show you how our app empowers you to uncover trends, compare cities, and make informed decisions."
-image: /assets/images/pier.jpeg
+image: /assets/images/pier.jpg
 ---
 
-<img src="https://samrich277.github.io/my-blog/assets/images/house_streamlit.png" alt="Streamlit Housing App" style="width:350px; float: right; margin-left: 15px;"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/streamlit_logo.png" alt="Streamlit Housing App" style="width:350px; float: right; margin-left: 15px;"/>
 
 Orange County’s housing market is a labyrinth of sky-high prices and endless factors—from square footage to city location—that make or break affordability. In my last blog post, I took you behind the scenes of scraping and cleaning housing data, sharing my journey of uncovering the building blocks of this intricate market. 
 
