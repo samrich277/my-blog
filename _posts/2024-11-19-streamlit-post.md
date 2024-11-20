@@ -98,11 +98,11 @@ Understanding the dynamics of Orange County’s housing market isn’t just abou
 
 Ready to explore? You can access the Streamlit app and code through the links below:
 
-- **[Explore the Streamlit App](https://share.streamlit.io/your-app-url)**
-- **[View the Code on GitHub](https://github.com/samrich277/housing-streamlit-app)**
+- **[Explore the Streamlit App](https://orangecountyhousingapp.streamlit.app/)**
+- **[View the Code on GitHub](https://github.com/samrich277/Streamlit-Project.git)**
 
-If you missed my earlier post on data collection and initial analysis, you can catch up [here](https://samrich277.github.io/my-blog/orange-county-housing).
+If you missed my earlier post on data collection and initial analysis, you can catch up [here](https://samrich277.github.io/my-blog/2024/10/16/Data-Curation.html).
 
 ---
 
-By connecting interactive tools with meaningful insights, this project takes data-driven exploration to the next level. So dive in, explore the app, and discover what Orange County’s housing market has to offer. Happy analyzing!
+By connecting interactive tools with meaningful insights, this project takes data-driven exploration to the next level. So dive in, explore the app, and discover what Orange County’s housing market has to offer. Feel free to comment below for any suggestions or feedback on my post! Happy analyzing!
