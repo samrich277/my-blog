@@ -7,7 +7,7 @@ description: "Dive deeper into Orange County's housing market with an interactiv
 image: /assets/images/pier.jpg
 ---
 
-<img src="https://samrich277.github.io/my-blog/assets/images/streamlit_logo.png" alt="Streamlit Housing App" style="width:350px; float: right; margin-left: 15px;"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/streamlit_logo.png" alt="Streamlit Housing App" style="width:400px; float: right; margin-left: 15px;"/>
 
 Orange County’s housing market is a labyrinth of sky-high prices and endless factors—from square footage to city location—that make or break affordability. In my last blog post, I took you behind the scenes of scraping and cleaning housing data, sharing my journey of uncovering the building blocks of this intricate market. 
 
@@ -28,21 +28,23 @@ In this phase, I’ve gone beyond the numbers to pull out actionable insights wh
 After exploring the data in depth, I discovered two critical insights that shed light on Orange County’s housing dynamics:
 
 ### 1. **Location is King**: 
-   Unsurprisingly, housing prices vary significantly between cities. Coastal cities like Newport Beach and Laguna Beach consistently top the charts, with average prices exceeding $3,000,000. In contrast, inland cities like Santa Ana and Anaheim offer more affordable options, with median prices around $800,000.  
+   Unsurprisingly, housing prices vary significantly between cities. Coastal cities like Corona del Mar and Newport Beach consistently top the charts, with average prices exceeding $12,000,000. In contrast, inland cities like Trabuco Canyon and Laguna Woods offer more affordable options, with median prices around $500,000.  
 
-   #### Supporting Visualizations:
-   Below is a box plot illustrating how housing prices vary across cities. This visualization is also included in the Streamlit app, where users can interact with specific cities to dive deeper into these trends.
+   #### Supporting Visualization:
+   Below is a graph illustrating how housing prices vary across cities. This visualization is also included in the Streamlit app, where users can interact with specific cities to dive deeper into these trends.
 
-   ![City Price Distribution](https://samrich277.github.io/my-blog/assets/images/city_price_distribution.png)
+   ![City Price Distribution](https://samrich277.github.io/my-blog/assets/images/city_price.png)
 
    The plot highlights the wide range of home prices, showing that coastal locations often command a significant premium due to proximity to beaches and higher demand.
 
-### 2. **Square Footage Matters, But It's Not Everything**:
-   While larger homes generally cost more, the relationship isn’t linear. For instance, homes in high-demand areas can cost significantly more per square foot. The scatter plot below shows price versus square footage, and the app allows you to filter by city to refine your exploration.
+### 2. **Square Footage Matters**:
+   While city is definitely the largest factor in determining housing prices, square footage has also proven to be significant. My analysis has shown that square footage and price has a positive, linear relationship. 
+   
+   #### Supporting Visualization:
+   The scatter plot below shows price versus square footage, and the app allows you to filter by city to refine your exploration.
 
-   ![Price vs Square Footage](https://samrich277.github.io/my-blog/assets/images/price_vs_sqft.png)
+   ![Price vs Square Footage](https://samrich277.github.io/my-blog/assets/images/footage_price.png)
 
-   This insight suggests that buyers should carefully weigh location against size when making decisions.
 
 ---
 
