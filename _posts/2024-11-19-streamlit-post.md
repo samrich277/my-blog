@@ -9,7 +9,7 @@ image: /assets/images/pier.jpg
 
 Orange County’s housing market is a labyrinth of sky-high prices and endless factors—from square footage to city location—that make or break affordability. In my last blog post, I took you behind the scenes of scraping and cleaning housing data, sharing my journey of uncovering the building blocks of this intricate market. 
 
-<img src="https://samrich277.github.io/my-blog/assets/images/streamlit_logo.png" alt="Streamlit Housing App" style="width:150px; float: right; margin-left: 15px;"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/streamlit_logo.png" alt="Streamlit Housing App" style="width:225px; float: right; margin-left: 15px;"/>
 
 This time, I’m taking it up a notch. Welcome to **insight-driven interactivity**—where data meets action. With a Streamlit app I built, you can now explore Orange County housing data like never before. Whether you're a potential buyer, an investor, or simply curious about real estate trends, this app puts the power of exploration into your hands.
 
@@ -31,7 +31,7 @@ After exploring the data in depth, I discovered two critical insights that shed 
 ### 1. **Location is King**: 
    Unsurprisingly, housing prices vary significantly between cities. Coastal cities like Corona del Mar and Newport Beach consistently top the charts, with average prices exceeding $12,000,000. In contrast, inland cities like Trabuco Canyon and Laguna Woods offer more affordable options, with median prices around $500,000.  
 
-#### Supporting Visualization:
+### Supporting Visualization:
 Below is a graph illustrating how housing prices vary across cities. This visualization is also included in the Streamlit app, where users can interact with specific cities to dive deeper into these trends.
 
 ![City Price Distribution](https://samrich277.github.io/my-blog/assets/images/city_price.png)
@@ -41,7 +41,7 @@ The plot highlights the wide range of home prices, showing that coastal location
 ### 2. **Square Footage Matters**:
    While city is definitely the largest factor in determining housing prices, square footage has also proven to be significant. My analysis has shown that square footage and price has a positive, linear relationship. 
    
-#### Supporting Visualization:
+### Supporting Visualization:
 The scatter plot below shows price versus square footage, and the app allows you to filter by city to refine your exploration.
 
 ![Price vs Square Footage](https://samrich277.github.io/my-blog/assets/images/footage_price.png)
@@ -56,6 +56,7 @@ To make these insights actionable, I developed an **interactive Streamlit app** 
 ### What Can You Do with the App?
 
 The app offers several features to help you dive into the data:
+<img src="https://samrich277.github.io/my-blog/assets/images/filters.png" alt="Filters" style="width:300px; float: right; margin-left: 15px;"/>
 1. **Dynamic Filtering**: Select specific cities, price ranges, and square footage to customize your view of the market.
 2. **Interactive Visualizations**: Explore price distributions, scatter plots, and city comparisons that update based on your selections.
 3. **Summary Statistics**: Quickly view the average, median, and range of prices for your selected criteria.
