@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "From Data to Decisions: Exploring Orange County Housing with Interactive Insights"
+title: "Exploring Orange County Housing with Interactive Insights"
 author: Samantha Richardson
 description: "Dive deeper into Orange County's housing market with an interactive Streamlit app. In this post, we’ll explore key insights from the data and show you how our app empowers you to uncover trends, compare cities, and make informed decisions."
 image: /assets/images/pier.jpg
@@ -49,7 +49,7 @@ The scatter plot below shows price versus square footage, and the app allows you
 
 ---
 
-## Introducing the Streamlit App
+## Introducing My Streamlit App
 
 To make these insights actionable, I developed an **interactive Streamlit app** that puts the power of exploration in your hands.
 
@@ -62,7 +62,7 @@ The app offers several features to help you dive into the data:
 1. **Dynamic Filtering**: Select specific cities, price ranges, and square footage to customize your view of the market. I made the default city "Huntington Beach" because it is my hometown!
 2. **Interactive Visualizations**: Explore price distributions, scatter plots, and city comparisons that update based on your selections.
 3. **Summary Statistics**: Quickly view the average, median, and range of prices for your selected criteria.
-4. **Searchable Listings**: Browse through individual property data to find homes that meet your needs.
+4. **Searchable Listings**: Browse through individual property data to find homes that meet your needs. You're even able to download your findings into your own csv!
 
 ### How to Use It:
 - **Explore City-Level Trends**: Want to know how Newport Beach compares to Santa Ana? Use the city filter to isolate trends and understand price differences.
