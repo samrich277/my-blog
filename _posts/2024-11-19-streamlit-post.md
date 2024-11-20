@@ -7,9 +7,9 @@ description: "Dive deeper into Orange County's housing market with an interactiv
 image: /assets/images/pier.jpg
 ---
 
-<img src="https://samrich277.github.io/my-blog/assets/images/streamlit_logo.png" alt="Streamlit Housing App" style="width:400px; float: right; margin-left: 15px;"/>
-
 Orange County’s housing market is a labyrinth of sky-high prices and endless factors—from square footage to city location—that make or break affordability. In my last blog post, I took you behind the scenes of scraping and cleaning housing data, sharing my journey of uncovering the building blocks of this intricate market. 
+
+<img src="https://samrich277.github.io/my-blog/assets/images/streamlit_logo.png" alt="Streamlit Housing App" style="width:150px; float: right; margin-left: 15px;"/>
 
 This time, I’m taking it up a notch. Welcome to **insight-driven interactivity**—where data meets action. With a Streamlit app I built, you can now explore Orange County housing data like never before. Whether you're a potential buyer, an investor, or simply curious about real estate trends, this app puts the power of exploration into your hands.
 
@@ -17,7 +17,8 @@ This time, I’m taking it up a notch. Welcome to **insight-driven interactivity
 
 ## Motivating Question
 
-Just as a reminder, the primary question guiding this project is: **What are the key factors that influence housing prices in Orange County?**  
+Just as a reminder, the primary question guiding this project is: 
+    **What are the key factors that influence housing prices in Orange County?**  
 
 In this phase, I’ve gone beyond the numbers to pull out actionable insights while providing you the tools to dig deeper on your own.
 
@@ -30,20 +31,20 @@ After exploring the data in depth, I discovered two critical insights that shed 
 ### 1. **Location is King**: 
    Unsurprisingly, housing prices vary significantly between cities. Coastal cities like Corona del Mar and Newport Beach consistently top the charts, with average prices exceeding $12,000,000. In contrast, inland cities like Trabuco Canyon and Laguna Woods offer more affordable options, with median prices around $500,000.  
 
-   #### Supporting Visualization:
-   Below is a graph illustrating how housing prices vary across cities. This visualization is also included in the Streamlit app, where users can interact with specific cities to dive deeper into these trends.
+#### Supporting Visualization:
+Below is a graph illustrating how housing prices vary across cities. This visualization is also included in the Streamlit app, where users can interact with specific cities to dive deeper into these trends.
 
-   ![City Price Distribution](https://samrich277.github.io/my-blog/assets/images/city_price.png)
+![City Price Distribution](https://samrich277.github.io/my-blog/assets/images/city_price.png)
 
-   The plot highlights the wide range of home prices, showing that coastal locations often command a significant premium due to proximity to beaches and higher demand.
+The plot highlights the wide range of home prices, showing that coastal locations often command a significant premium due to proximity to beaches and higher demand.
 
 ### 2. **Square Footage Matters**:
    While city is definitely the largest factor in determining housing prices, square footage has also proven to be significant. My analysis has shown that square footage and price has a positive, linear relationship. 
    
-   #### Supporting Visualization:
-   The scatter plot below shows price versus square footage, and the app allows you to filter by city to refine your exploration.
+#### Supporting Visualization:
+The scatter plot below shows price versus square footage, and the app allows you to filter by city to refine your exploration.
 
-   ![Price vs Square Footage](https://samrich277.github.io/my-blog/assets/images/footage_price.png)
+![Price vs Square Footage](https://samrich277.github.io/my-blog/assets/images/footage_price.png)
 
 
 ---
