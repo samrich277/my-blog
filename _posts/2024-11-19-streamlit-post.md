@@ -58,7 +58,7 @@ To make these insights actionable, I developed an **interactive Streamlit app** 
 ### What Can You Do with the App?
 
 The app offers several features to help you dive into the data:
-<img src="https://samrich277.github.io/my-blog/assets/images/filters.png" alt="Filters" style="width:225px; float: right; margin-left: 15px;"/>
+<img src="https://samrich277.github.io/my-blog/assets/images/filters.png" alt="Filters" style="width:380px; float: right; margin-left: 15px;"/>
 1. **Dynamic Filtering**: Select specific cities, price ranges, and square footage to customize your view of the market. I made the default city "Huntington Beach" because it is my hometown!
 2. **Interactive Visualizations**: Explore price distributions, scatter plots, and city comparisons that update based on your selections.
 3. **Summary Statistics**: Quickly view the average, median, and range of prices for your selected criteria.
@@ -75,9 +75,12 @@ Let’s say you’re deciding between two cities: Irvine and Huntington Beach. W
 - View individual listings to get a sense of what’s available in your budget.
 - See how prices per square foot differ, helping you evaluate value for money.
 
-Here’s a sneak peek at the app in action:
+###Here’s a sneak peek at the app in action:
+- An interactive map that updates colors based on city selections:
+![Map 2](https://samrich277.github.io/my-blog/assets/images/map2.png)
 
-![Streamlit App Screenshot](https://samrich277.github.io/my-blog/assets/images/streamlit_app_screenshot.png)
+- A pie chart that displays the percent of house postings per city:
+![Pie Chart](https://samrich277.github.io/my-blog/assets/images/pie_chart.png)
 
 ---
 
