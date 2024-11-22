@@ -57,7 +57,7 @@ To make these insights actionable, I developed an [interactive Streamlit App](ht
 
 ### What Can You Do with the App?
 
-The app offers several features to help you dive into the data:
+The [app](https://streamlit.io/) offers several features to help you dive into the data:
 <img src="https://samrich277.github.io/my-blog/assets/images/filters.png" alt="Filters" style="width:325px; float: right; margin-left: 15px;"/>
 1. **Dynamic Filtering**: Select specific cities, price ranges, and square footage to customize your view of the market. I made the default city "Huntington Beach" because it is my hometown!
 2. **Interactive Visualizations**: Explore price distributions, scatter plots, and city comparisons that update based on your selections.
