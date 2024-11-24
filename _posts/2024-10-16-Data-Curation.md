@@ -6,12 +6,12 @@ author: Samantha Richardson
 description: "Explore the foundations of housing data in one of California’s most competitive real estate markets. In this post, we’ll walk through the process of gathering and organizing essential details from Orange County listings. This groundwork will set the stage for a deeper dive in the next post, where we’ll analyze these factors and uncover what drives affordability in the area."
 image: /assets/images/orange_county1.jpg
 ---
-<figure style="text-align: right; margin-left: 15px;">
+<div style="float: right; margin-left: 15px; text-align: center;">
     <img src="https://samrich277.github.io/my-blog/assets/images/house_icon.png" alt="House_icon" style="width:150px;"/>
-    <figcaption style="font-size: small;">
-        Source: <a href="iconfinder.com" target="_blank">Example Link</a>
-    </figcaption>
-</figure>
+    <small>
+        Source: <a href="iconfinder.com" target="_blank">iconfinder.com</a>
+    </small>
+</div>
 
 Growing up in the sunny neighborhoods of Orange County, California, I always imagined moving back someday—if I could find something in this wild housing market! With homes that range from cozy to luxurious (and price tags that match), navigating the OC real estate scene can feel like a game. In this project, I dive into the data to decode the trends behind these sky-high prices, exploring everything from square footage to location. Whether you're a hopeful buyer like me or an investor with an eye on the prize, let’s uncover what makes Orange County’s market tick.
 
