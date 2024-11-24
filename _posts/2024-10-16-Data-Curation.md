@@ -142,8 +142,12 @@ The dataset includes 488 properties, with the following summary statistics for e
 
 ## Conclusions and Next Steps
 
-<img src="https://samrich277.github.io/my-blog/assets/images/house_bought.png" alt="House_buy" style="width:300px; float: right; margin-left: 15px;"/>
-
+<div style="float: right; margin-left: 15px; text-align: center;">
+    <img src="https://samrich277.github.io/my-blog/assets/images/house_bought.png" alt="House_icon" style="width:200px;"/>
+    <small>
+        Source: <a href="https://www.flaticon.com/free-icon/sold_5487449" target="_blank">flaticon.com</a>
+    </small>
+</div>
 
 Are you curious to see how we can unlock hidden insights in the Orange County housing market? In my next blog post, I’ll dive headfirst into exploratory data analysis (EDA) to uncover key trends and insights that could guide your search for the perfect home. I’ll be tackling questions like:
 
